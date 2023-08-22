@@ -1,0 +1,30 @@
+ /* Place your CSS styles in this file */
+
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: green;
+}
+
+h3 {
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: rgb(0, 119, 128);
+}
+
+
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
